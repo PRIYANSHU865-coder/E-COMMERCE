@@ -1,4 +1,4 @@
-# E-Commerce Website
+# E-Commerce Website-----------ShopEase 
 
 This is a basic E-commerce website built using HTML, CSS, and JavaScript.
 
